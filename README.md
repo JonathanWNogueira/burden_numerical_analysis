@@ -11,7 +11,7 @@
 - Capítulo 9: Aproximação de Autovalores ([9](https://github.com/JonathanWNogueira/burden/blob/main/9.ipynb)).
 - Capítulo 10: Soluções Numéricas de Sistemas de Equações Não Lineares ([10](https://github.com/JonathanWNogueira/burden/blob/main/10.ipynb)).
 - Capítulo 11: Problemas de Contorno para Equações Diferenciais Ordinárias ([11](https://github.com/JonathanWNogueira/burden/blob/main/11.ipynb)).
-- Capítulo 12: Soluções Numéricas de Equações Diferenciais Parciais.
+- Capítulo 12: Soluções Numéricas de Equações Diferenciais Parciais ([12](https://github.com/JonathanWNogueira/burden/blob/main/12.ipynb)).
   
 **Referência Bibliográfica:** 
 
